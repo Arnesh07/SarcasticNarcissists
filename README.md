@@ -10,4 +10,5 @@ And for the rest of the people, Television and Radio will act as the key in warn
 Our Post-Disaster Mechanism aims to make better use of the resources provided by authorities by prioritizing most affected areas.
 We will provide a Status System, which will consider each user "In Danger" by default, in which users can update their status as "I'm Safe" as soon as it is possible for them to do so after the disaster.
 The places having less number density of "I'm Safe" notifications will be prioritized.
-This data can be conveniently collected from all the users and sent to the concerned authorities by using a realtime database. 
+This data can be conveniently collected from all the users and sent to the concerned authorities by using a realtime database.
+This is how our app works.
